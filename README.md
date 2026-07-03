@@ -3,11 +3,7 @@
 <hr>
 
 <!-- MAIN PHRASE SECTION -->
-<h4 align="center"><em>"I love taking on challenges, collaborating with others, and exploring new tech"</em></h4>
-
-<!-- ABOUT YOU -->
-<hr>
-<h3 align="center">I love to build AI-powered full-stack applications, solve problems and take on challenges</h3>
+<h3 align="center"><em>"I love taking on challenges, collaborating with others, and exploring new tech"</em></h3>
 
 <ul>
   <li>🎓 Final year B.Tech Information Technology student at <strong>SASTRA University</strong></li>
