@@ -13,6 +13,22 @@
   <li>📫 How to reach me: <strong>kumar.tech3005@gmail.com</strong></li>
 </ul>
 
+<!-- FEATURED PROJECTS -->
+<hr>
+<h3 align="center">Featured Projects</h3>
+
+<ul>
+  <li>🧠 <strong>Kyros AI</strong> — Multi-agent career preparation platform with RAG-powered resume analysis and AI mock interviews</li>
+  <li>📚 <strong>PrepPilot</strong> — AI-powered preparation scheduler with adaptive quizzes and MCP-based resource recommendation</li>
+  <li>🍎 <strong>NutriNet</strong> — Food recognition & cardiovascular dietary assistant using ML and computer vision</li>
+</ul>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kyros_AI-Multi_Agent-6366F1?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PrepPilot-AI_Scheduler-10B981?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NutriNet-Computer_Vision-F97316?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
 <!-- CONNECTION -->
 <hr>
 <h3 align="center">Connect with me:</h3>
@@ -49,14 +65,26 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
-  <img src="https://img.shields.io/badge/ChromaDB-6C63FF?style=for-the-badge" alt="chromadb"/>
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="gemini"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="claude"/>
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge" alt="yolo"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="render"/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="railway"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</p>
+
+<hr>
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KK-2k06&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<hr>
+<h3 align="center">Contribution Graph</h3>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 <hr>
