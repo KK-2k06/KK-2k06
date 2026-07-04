@@ -78,7 +78,7 @@
 <hr>
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KK-2k06&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KK-2k06&theme=github_dark"/>
 </p>
 
 <hr>
