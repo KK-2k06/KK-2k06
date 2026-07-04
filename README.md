@@ -82,9 +82,3 @@
 </p>
 
 <hr>
-<h3 align="center">Contribution Graph</h3>
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-<hr>
